@@ -1,7 +1,10 @@
 # Projects
 
-## Выбор региона для разработки новых нефтяных месторождений (https://github.com/B-A-V/Projects/tree/main/Oil%20fileds%20analysis)
+# Проект 1
+
+### Выбор региона для разработки новых нефтяных месторождений 
+### (https://github.com/B-A-V/Projects/tree/main/Oil%20fileds%20analysis)
 ### Описание:
 Решить в каком регионе добывать нефть. Построить модель машинного обучения, которая поможет определить регион, где добыча принесет наибольшую прибыль с наименьшим риском убытков.
 ### Стек:
-Bootstrap, Matplotlib, Pandas, SciPy, Seaborn, math, numpy,sklearn, машинное обучение.
+Bootstrap, Matplotlib, Pandas, SciPy, Seaborn, math, numpy, sklearn, машинное обучение.
